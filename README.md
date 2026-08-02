@@ -7,7 +7,7 @@
 * 🤝 **Leadership & Teamwork:** I thrive in collaborative environments and have a strong aptitude for building and leading capable workgroups. I have successfully managed, planned, and directed complex academic projects from conception through to execution.
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=cpp,java,python,mysql&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,cs,java,python,mysql&theme=dark)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=raul-burga-t&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
